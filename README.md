@@ -1,6 +1,6 @@
 ## Bejenari Maxim | Software Engineer 👋
 
-🛠  Tech Stack
+### 🛠  Tech Stack
 📜  Language:  Python, GO, JAVA
 📱  Mobile:  React Native
 🗄  Backend:  GIN, REST API, FAST API, Spring Boot
