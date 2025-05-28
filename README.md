@@ -9,4 +9,4 @@
 ### ⚙️  VCS:   Git, GitHub
 ### 🔧  IDE's:  Visual Studio Code
 ### 🖥  Design:  Figma
-### ♾️  Devops: Docker, Kubernatis
+### ♾️  Devops: Docker
