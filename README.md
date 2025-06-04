@@ -3,7 +3,7 @@
 ## 🛠  Tech Stack
 ### 📜  Language:  Python, GO, JAVA
 ### 📱  Mobile:  React Native
-### 🗄  Backend:  GIN, REST API, FAST API, Spring Boot
+### 🗄  Backend:  GIN, FAST API, Spring Boot
 ### 🛢  Database:  MongoDB, Redis, MySQL, Postgresql
 ### ⚙️  VCS:   Git, GitHub
 ### 🔧  IDE's:  Visual Studio Code
